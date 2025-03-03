@@ -1,1 +1,1 @@
-# gcmb-house
+<Svg src="house_energy.drawio.svg">
