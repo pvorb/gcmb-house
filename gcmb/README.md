@@ -1,1 +1,1 @@
-<Svg src="house_energy.drawio.svg" />
+<Svg src="house_energy.svg" />
